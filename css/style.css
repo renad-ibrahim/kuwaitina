@@ -1,0 +1,29 @@
+body{
+    background-image:  linear-gradient(#3e59ff, #75eefb);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.share-here .btn{
+    border-radius: 13px;
+}
+.share-here .btn i{
+    font-size: 15px;
+}
+.page-actions .btn{
+    border: 1px solid #fff;
+    color: #fff;
+    transition: all 0.5s;
+}
+.page-actions .btn:hover{
+    color: #09c;
+    background-color: #fff !important;
+}
+.logo img{
+    width: 150px;
+}
+footer{
+    
+}
+footer a{
+    font-size: 10px;
+}
